@@ -1,0 +1,9 @@
+country,documents,model_used,country_source_note
+HND,4,sentence-transformers/all-MiniLM-L6-v2,Country/geography metadata from dataset
+MNG,4,sentence-transformers/all-MiniLM-L6-v2,Country/geography metadata from dataset
+SEN,4,sentence-transformers/all-MiniLM-L6-v2,Country/geography metadata from dataset
+MUS,4,sentence-transformers/all-MiniLM-L6-v2,Country/geography metadata from dataset
+SLB,3,sentence-transformers/all-MiniLM-L6-v2,Country/geography metadata from dataset
+NIC,3,sentence-transformers/all-MiniLM-L6-v2,Country/geography metadata from dataset
+PAK,2,sentence-transformers/all-MiniLM-L6-v2,Country/geography metadata from dataset
+TKM,2,sentence-transformers/all-MiniLM-L6-v2,Country/geography metadata from dataset

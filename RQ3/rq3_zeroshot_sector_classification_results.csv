@@ -1,0 +1,26 @@
+doc_id,title,country,year,word_count,model_predicted_sector,model_confidence,model_used,keyword_baseline_sector
+AF.document.010MMGAR.n0003,Final evaluation report,MDG,2011,69517,Transport,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation
+AF.document.005MNIWR.n0001,Inception report,NIC,2010,52927,Transport,0.99951171875,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation
+AF.document.006MPKDR.n0002,Final evaluation report,PAK,2010,45125,Transport,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation
+AF.document.009MHNWR.n0001,Inception report,HND,2010,43451,Transport,0.99951171875,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation
+AF.document.002MMUCR.n0004,Final evaluation report,MUS,2011,42880,Transport,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation
+AF.document.004MSBFR.n0007,Final evaluation report,SLB,2011,41709,Energy,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Agriculture
+AF.document.002MMUCR.n0002,Mid-term evaluation report,MUS,2011,41440,Transport,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation
+AF.document.007NSNCR.n0001,Mid-term evaluation report,SEN,2010,37840,Agriculture,0.9990234375,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation
+AF.document.011MMNCR.n0000,Project document,MNG,2011,34930,Energy,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation
+AF.document.003MTMWR.n0002,Mid-term evaluation report,TKM,2011,34387,Transport,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation
+AF.document.005MNIWR.n0002,Mid-term evaluation report,NIC,2010,30014,Transport,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation
+AF.document.007NSNCR.n0002,Final evaluation report,SEN,2010,28285,Transport,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation
+AF.document.005MNIWR.n0000,Project document,NIC,2010,27511,Transport,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Agriculture
+AF.document.004MSBFR.n0006,Mid-term evaluation report,SLB,2011,27185,Transport,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Agriculture
+AF.document.003MTMWR.n0000,Project document,TKM,2011,24657,Energy,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation
+AF.document.009MHNWR.n0007,Final evaluation report,HND,2010,19128,Transport,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation
+AF.document.009MHNWR.n0000,Mid-term evaluation report,HND,2010,17294,Transport,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation
+AF.document.009MHNWR.n0006,Project document,HND,2010,15618,Energy,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation
+AF.document.006MPKDR.n0000,Inception report,PAK,2010,13497,Transport,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation
+AF.document.011MMNCR.n0001,Inception report,MNG,2011,12125,Transport,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation
+AF.document.002MMUCR.n0001,Inception report,MUS,2011,9542,Transport,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation
+AF.document.002MMUCR.n0003,Project completion report,MUS,2011,9160,Climate Finance,0.9990234375,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation
+AF.document.007NSNCR.n0000,Project document,SEN,2010,7482,Transport,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation
+AF.document.004MSBFR.n0001,Inception report,SLB,2011,4421,Transport,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Climate Finance
+AF.document.007NSNCR.n0003,Project performance report 1,SEN,2010,4201,Agriculture,1.0,MoritzLaurer/deberta-v3-base-zeroshot-v1,Adaptation

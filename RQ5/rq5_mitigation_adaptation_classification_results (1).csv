@@ -1,0 +1,28 @@
+doc_id,title,country,year,word_count,model_label,model_confidence,model_used,mitigation_keyword_count,adaptation_keyword_count
+AF.document.010MMGAR.n0003,Final evaluation report,MDG,2011,69517,Mitigation-focused climate policy,0.62109375,MoritzLaurer/deberta-v3-base-zeroshot-v1,19,551
+AF.document.005MNIWR.n0001,Inception report,NIC,2010,52927,Mitigation-focused climate policy,0.9404296875,MoritzLaurer/deberta-v3-base-zeroshot-v1,7,214
+AF.document.006MPKDR.n0002,Final evaluation report,PAK,2010,45125,Mitigation-focused climate policy,0.64892578125,MoritzLaurer/deberta-v3-base-zeroshot-v1,27,574
+AF.document.011MMNCR.n0008,Final evaluation report,MNG,2011,43581,Mitigation-focused climate policy,0.921875,MoritzLaurer/deberta-v3-base-zeroshot-v1,5,324
+AF.document.009MHNWR.n0001,Inception report,HND,2010,43451,Mitigation-focused climate policy,0.9326171875,MoritzLaurer/deberta-v3-base-zeroshot-v1,7,197
+AF.document.002MMUCR.n0004,Final evaluation report,MUS,2011,42880,Mitigation-focused climate policy,0.99462890625,MoritzLaurer/deberta-v3-base-zeroshot-v1,18,543
+AF.document.004MSBFR.n0007,Final evaluation report,SLB,2011,41709,Mitigation-focused climate policy,0.9970703125,MoritzLaurer/deberta-v3-base-zeroshot-v1,1,277
+AF.document.002MMUCR.n0002,Mid-term evaluation report,MUS,2011,41440,Mitigation-focused climate policy,0.9619140625,MoritzLaurer/deberta-v3-base-zeroshot-v1,3,441
+AF.document.007NSNCR.n0001,Mid-term evaluation report,SEN,2010,37840,Mitigation-focused climate policy,0.9150390625,MoritzLaurer/deberta-v3-base-zeroshot-v1,1,92
+AF.document.011MMNCR.n0007,Mid-term evaluation report,MNG,2011,37422,Mitigation-focused climate policy,0.98828125,MoritzLaurer/deberta-v3-base-zeroshot-v1,17,213
+AF.document.011MMNCR.n0000,Project document,MNG,2011,34930,Mitigation-focused climate policy,0.998046875,MoritzLaurer/deberta-v3-base-zeroshot-v1,18,293
+AF.document.003MTMWR.n0002,Mid-term evaluation report,TKM,2011,34387,Mitigation-focused climate policy,0.99169921875,MoritzLaurer/deberta-v3-base-zeroshot-v1,3,262
+AF.document.005MNIWR.n0002,Mid-term evaluation report,NIC,2010,30014,Mitigation-focused climate policy,0.64013671875,MoritzLaurer/deberta-v3-base-zeroshot-v1,6,161
+AF.document.007NSNCR.n0002,Final evaluation report,SEN,2010,28285,Mitigation-focused climate policy,0.986328125,MoritzLaurer/deberta-v3-base-zeroshot-v1,7,175
+AF.document.005MNIWR.n0000,Project document,NIC,2010,27511,Mitigation-focused climate policy,0.0738525390625,MoritzLaurer/deberta-v3-base-zeroshot-v1,4,141
+AF.document.004MSBFR.n0006,Mid-term evaluation report,SLB,2011,27185,Mitigation-focused climate policy,0.99169921875,MoritzLaurer/deberta-v3-base-zeroshot-v1,7,84
+AF.document.011MMNCR.n0001,Inception report,MNG,2011,25050,Mitigation-focused climate policy,0.98828125,MoritzLaurer/deberta-v3-base-zeroshot-v1,12,165
+AF.document.003MTMWR.n0000,Project document,TKM,2011,24657,Mitigation-focused climate policy,0.06927490234375,MoritzLaurer/deberta-v3-base-zeroshot-v1,2,201
+AF.document.009MHNWR.n0007,Final evaluation report,HND,2010,19128,Adaptation-focused climate policy,0.990234375,MoritzLaurer/deberta-v3-base-zeroshot-v1,8,167
+AF.document.009MHNWR.n0000,Mid-term evaluation report,HND,2010,17294,Mitigation-focused climate policy,0.83984375,MoritzLaurer/deberta-v3-base-zeroshot-v1,7,155
+AF.document.009MHNWR.n0006,Project document,HND,2010,15618,Mitigation-focused climate policy,0.99365234375,MoritzLaurer/deberta-v3-base-zeroshot-v1,5,201
+AF.document.006MPKDR.n0000,Inception report,PAK,2010,13497,Mitigation-focused climate policy,0.63818359375,MoritzLaurer/deberta-v3-base-zeroshot-v1,19,248
+AF.document.002MMUCR.n0001,Inception report,MUS,2011,9542,Mitigation-focused climate policy,0.96630859375,MoritzLaurer/deberta-v3-base-zeroshot-v1,7,210
+AF.document.002MMUCR.n0003,Project completion report,MUS,2011,9160,Mitigation-focused climate policy,0.2440185546875,MoritzLaurer/deberta-v3-base-zeroshot-v1,3,148
+AF.document.007NSNCR.n0000,Project document,SEN,2010,7482,Mitigation-focused climate policy,0.974609375,MoritzLaurer/deberta-v3-base-zeroshot-v1,0,95
+AF.document.004MSBFR.n0001,Inception report,SLB,2011,4421,Mitigation-focused climate policy,0.9677734375,MoritzLaurer/deberta-v3-base-zeroshot-v1,0,34
+AF.document.007NSNCR.n0003,Project performance report 1,SEN,2010,4201,Mitigation-focused climate policy,0.99365234375,MoritzLaurer/deberta-v3-base-zeroshot-v1,0,17

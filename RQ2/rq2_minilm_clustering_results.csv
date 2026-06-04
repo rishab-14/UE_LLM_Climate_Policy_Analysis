@@ -1,0 +1,16 @@
+doc_id,title,country,year,word_count,cluster_id,pca_x,pca_y,keyword_baseline_theme,cluster_majority_theme
+AF.document.002MMUCR.n0001,Inception report,MUS,2011,10332,1,-0.44286215,-0.17747062,Adaptation,Adaptation
+AF.document.002MMUCR.n0002,Mid-term evaluation report,MUS,2011,41952,1,-0.4584568,-0.16759813,Adaptation,Adaptation
+AF.document.002MMUCR.n0003,Project completion report,MUS,2011,9498,1,-0.37451702,-0.15271221,Adaptation,Adaptation
+AF.document.002MMUCR.n0004,Final evaluation report,MUS,2011,43622,1,-0.34759563,-0.09980629,Adaptation,Adaptation
+AF.document.003MTMWR.n0000,Project document,TKM,2011,25104,0,0.42469868,0.12552014,Adaptation,Adaptation
+AF.document.003MTMWR.n0002,Mid-term evaluation report,TKM,2011,35175,0,0.47917223,0.12006781,Adaptation,Adaptation
+AF.document.004MSBFR.n0001,Inception report,SLB,2011,4469,1,-0.09166508,0.25467026,Climate Finance,Adaptation
+AF.document.004MSBFR.n0006,Mid-term evaluation report,SLB,2011,27909,1,-0.17868984,0.45192647,Agriculture,Adaptation
+AF.document.004MSBFR.n0007,Final evaluation report,SLB,2011,43465,1,-0.10995818,0.47705474,Agriculture,Adaptation
+AF.document.005MNIWR.n0000,Project document,NIC,2010,27819,2,0.15924472,-0.25472164,Agriculture,Adaptation
+AF.document.005MNIWR.n0001,Inception report,NIC,2010,56153,2,0.26890376,-0.311436,Adaptation,Adaptation
+AF.document.005MNIWR.n0002,Mid-term evaluation report,NIC,2010,30653,2,0.22250065,-0.37590122,Adaptation,Adaptation
+AF.document.006MPKDR.n0000,Inception report,PAK,2010,13782,0,0.26870266,0.0067448243,Adaptation,Adaptation
+AF.document.006MPKDR.n0002,Final evaluation report,PAK,2010,48199,0,0.3177429,0.041226342,Adaptation,Adaptation
+AF.document.007NSNCR.n0000,Project document,SEN,2010,7691,1,-0.13722093,0.062435318,Adaptation,Adaptation
